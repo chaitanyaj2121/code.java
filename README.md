@@ -1,2 +1,12 @@
-# code.java
-code practiced
+import java.lang.*;
+
+
+public class tes
+{
+	public static void main(String ...args)
+	{
+		x=1;
+
+		System.out.println(Integer.toBinaryString(x));
+	}
+}
