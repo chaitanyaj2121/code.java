@@ -8,5 +8,6 @@ public class tes
 	   int	x=1;
 
 		System.out.println(Integer.toBinaryString(x));
+		System.out.println("print hello world");
 	}
 }
