@@ -5,7 +5,7 @@ public class tes
 {
 	public static void main(String ...args)
 	{
-		x=1;
+	   int	x=1;
 
 		System.out.println(Integer.toBinaryString(x));
 	}
